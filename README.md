@@ -6,4 +6,4 @@ Ochi Design - A modern, visually appealing website crafted with ReactJS, showcas
 - Tailwind CSS
 
 ## Website is Live !!!
-https://ochidesigns.vercel.app/
+🟢 https://ochidesigns.vercel.app/
